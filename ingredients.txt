@@ -17,4 +17,7 @@ Ingredients
 - Whole spices: 4 cloves, 2 cardamoms, 1 bay leaf, 1 cinnamon stick
 - ½ cup milk with a few saffron strands soaked
 #I Hate Veg-Biryani
+<<<<<<< HEAD
 no i don't hate Veg, but love at times
+=======
+>>>>>>> d96898a5e326be7db17aef37098a3f72b5fa6d70
